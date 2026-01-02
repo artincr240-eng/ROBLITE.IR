@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Roblite | خرید جم و اکانت بازی</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Tahoma, Arial, sans-serif;
+      background-color: #000;
+      color: #fff;
+    }
+    header {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+    }
+    .logo {
+      width: 160px;
+      margin-bottom: 30px;
+    }
+    h1 {
+      font-size: 28px;
+      line-height: 1.8;
+      max-width: 900px;
+      color: #19e0ff;
+    }
+    .hero-image {
+      margin-top: 50px;
+      max-width: 90%;
+      border-radius: 16px;
+      box-shadow: 0 0 40px rgba(25, 224, 255, 0.4);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="roblite-logo.png" alt="Roblite Logo" class="logo" />
+    <h1>
+      جم و اکانت بازی میخوای؟ روباکس، سی پی، جم کلش رویال و...
+      <br />
+      بیا از سایت <strong>روبلایت</strong> بخر!
+    </h1>
+    <img src="yakhchal-gem.jpg" alt="یخچال جم" class="hero-image" />
+  </header>
+
+  <footer>
+    © تمامی حقوق برای Roblite محفوظ است
+  </footer>
+</body>
+</html>
